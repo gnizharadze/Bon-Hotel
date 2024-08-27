@@ -181,4 +181,33 @@
     border: none;
 }
 
+/* Get a room */
 
+.book{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.book h2{
+    color: #957554;
+    font-family: 'ubuntu', 'sans-serif';
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 51.71px;
+    margin-bottom: 38px;
+}
+
+.booknowbutton {
+    padding: 24px 157px;
+    background-color: #DFAA5B;
+    font-family: 'ubuntu', 'sans-serif';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 27.58px;
+    color: #FFFFFF;
+    border-radius: 15px;
+    border: none;
+    margin-bottom: 122px;
+}
