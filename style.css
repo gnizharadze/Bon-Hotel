@@ -30,3 +30,47 @@
     line-height: 27.58px;
     color: #957554;
 }
+
+/* Main Section */
+
+.main-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(Photos/bigpicture.png);
+    background-size: 100%;
+    width: 100vw;
+    height: 100vh;
+    margin-bottom: 80px;
+}
+
+.main-section h1 {
+    font-family: 'ubuntu', 'sans-serif';
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 91.92px;
+    color: #FFFFFF;
+    margin-bottom: 43.07px;
+
+}
+
+.main-section p {
+    font-family: 'ubuntu', 'sans-serif';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 27.58px;
+    color: #FFFFFF;
+    margin-bottom: 53.83px;
+}
+
+.exploreb{
+    background-color: #DFAA5B;
+    padding: 25.24px 133.25px;
+    color: #FFFFFF;
+    font-family: 'ubuntu', 'sans-serif';
+    font-size: 24px;
+    line-height: 27.58px;
+    border-radius: 20px;
+    border: none;
+}
